@@ -719,7 +719,7 @@ body.no-scroll {
 		display: inline-block;
 		position: relative;
 		z-index: 100;
-		width: 20px;
+		width: 21px;
 		height: 20px;
 	}
 	.boorger a span {

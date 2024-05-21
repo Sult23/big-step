@@ -290,7 +290,7 @@ body.no-scroll {
 	font-family: 'Sedan', serif;
 }
 .logo span {
-	color: yellow;
+	color: red;
 }
 .nav {
 	display: flex;
